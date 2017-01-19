@@ -2,11 +2,10 @@
 
   simple imgr sharerrr.
 
- ### Install
-     npm i
-
- ### Run
-     npm start
+``` 
+    npm i
+    npm start
+```
 
 http://localhost:3000/
 
