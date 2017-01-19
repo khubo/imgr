@@ -3,11 +3,11 @@
   simple imgr sharerrr.
 
  ### Install
-        npm i
+     npm i
 
  ### Run
-        npm start
+     npm start
 
-    http://localhost:3000/
+http://localhost:3000/
 
-    May the Force be with you!
+May the Force be with you!
