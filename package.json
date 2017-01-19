@@ -8,8 +8,8 @@
     "watch": "./node_modules/nodemon/bin/nodemon.js  index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "khubo(aswin)",
+  "license": "MIT",
   "dependencies": {
     "bluebird": "^3.4.7",
     "express": "^4.14.0",
